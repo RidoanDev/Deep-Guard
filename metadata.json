@@ -1,0 +1,6 @@
+{
+  "name": "DeepGuard",
+  "description": "Smart app locker, focus timer lock, adult/gambling/dating shield, browser search block, and anti-uninstall protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

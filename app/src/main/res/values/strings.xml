@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeepGuard</string>
+    <string name="accessibility_service_desc">DeepGuard এক্সেসিবিলিটি সার্ভিস ফোকাস টাইমার চলাকালীন ব্লকড অ্যাপ খোলা ও ব্রাউজারে ক্ষতিকর বা বয়স্ক ইউআরএল অ্যাক্সেস প্রতিরোধ করে।</string>
+</resources>
