@@ -1,0 +1,33 @@
+PROPRIETARY SOURCE CODE LICENSE (ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 DeepGuard. All Rights Reserved.
+
+CONFIDENTIAL & PROPRIETARY
+
+This source code and related documentation files (the "Software") are the confidential, 
+exclusive, and proprietary intellectual property of the author/owner.
+
+TERMS AND CONDITIONS:
+
+1. STRICT PROHIBITION ON COPYING AND DISTRIBUTION:
+   No part of this source code, architecture, designs, graphics, branding, or logic 
+   may be copied, cloned, reproduced, redistributed, sublicensed, sold, published, 
+   or used to train machine learning models without express prior written consent 
+   from the copyright owner.
+
+2. STRICT PROHIBITION ON COMMERCIAL & DERIVATIVE USE:
+   You may NOT create derivative works, rebrand ("white-label"), modify, adapt, or 
+   publicly release any application derived directly or indirectly from this repository.
+
+3. STRICT PROHIBITION ON REVERSE ENGINEERING:
+   You may NOT decompile, disassemble, reverse engineer, extract algorithms, or attempt 
+   to reconstruct the core security, blocking logic, or accessibility hooks of this Software.
+
+4. PORTFOLIO / EVALUATION ONLY:
+   If this repository is made publicly viewable on GitHub, viewing rights are granted 
+   SOLEY for the purpose of technical evaluation, portfolio review, or interview assessment. 
+   No runtime license or distribution right is implied or granted.
+
+ANY UNAUTHORIZED DUPLICATION, PIRACY, OR REDISTRIBUTION WILL RESULT IN IMMEDIATE 
+LEGAL ACTION (INCLUDING DMCA TAKEDOWNS, CEASE AND DESIST NOTICES, AND STATUTORY 
+DAMAGES FOR INTELLECTUAL PROPERTY INFRINGEMENT).
